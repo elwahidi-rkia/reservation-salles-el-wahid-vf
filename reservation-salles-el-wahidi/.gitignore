@@ -1,0 +1,8 @@
+out/
+*.class
+logs.txt
+database/*.mv.db
+database/*.trace.db
+data/
+.DS_Store
+Thumbs.db
